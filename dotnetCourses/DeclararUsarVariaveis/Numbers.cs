@@ -4,9 +4,9 @@ using System.Text;
 
 namespace DeclararUsarVariaveis
 {
-    public class Numeros
+    public class Numbers
     {
-        public Numeros()
+        public Numbers()
         {
             // https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/tutorials/numbers-in-csharp?tutorial-step=1
             // Explorar a matemática de inteiros.

@@ -4,9 +4,9 @@ using System.Text;
 
 namespace DeclararUsarVariaveis
 {
-    public class CadeiasDeCaracteres
+    public class CharacterStrings
     {
-        public CadeiasDeCaracteres ()
+        public CharacterStrings ()
         {
             // https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/strings/
             Console.WriteLine("Hello World!");
